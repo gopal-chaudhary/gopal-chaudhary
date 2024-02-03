@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopalchaudh" alt="gopalchaudh" /></a> </p>
 
+<p> <img align="center"  src="https://github-readme-stats.vercel.app/api?username=GopalChaudh&show_icons=true&theme=radical" alt="Gopal Chaudhary status"> </p>
 - 📫 How to reach me **gopal.se.dev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mr-gopal](https://www.linkedin.com/in/mr-gopal)
