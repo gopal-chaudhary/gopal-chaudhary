@@ -29,5 +29,5 @@
 
 
 ## Watch snake eating my github contributions 
- ![snake gif](https://github.com/GopalChaudh/GopalChaudh/blob/output/github-contribution-grid-snake.gif)
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/GopalChaudh/GopalChaudh/output/snake.svg" />
  
