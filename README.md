@@ -20,9 +20,7 @@
 <a href="https://stackoverflow.com/users/19999165/gopal-chaudhary-cse" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="35"/></a>
 <a href="https://instagram.com/gopal_cse" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/></a>
 <a href="https://www.youtube.com/@gopal_cse" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="35"/></a>
-<a href="https://www.hackerrank.com/gopal_se_dev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="35"/></a>
 <a href="https://www.leetcode.com/gopal-chaudhary" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35"/></a>
-<a href="https://auth.geeksforgeeks.org/user/geeksforgeeks" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="35"/></a>
 </p>
 
 ---
