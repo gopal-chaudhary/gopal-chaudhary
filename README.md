@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gopal Chaudhary</h1>
-<h3 align="center">A passionate Software Engineer & Full-Stack Developer from India</h3>
+<img width="800" height="150" alt="your_cool_intro" src="https://github.com/user-attachments/assets/26679842-4f6e-4fde-82a6-4cbdd8668826" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gopal-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
