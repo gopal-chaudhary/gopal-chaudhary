@@ -11,10 +11,6 @@
 
 ---
 
-### How to reach me  
-- **Email:** gopal.se.dev@gmail.com  
----
-
 ##  Tech Stack
 
 ### Languages
